@@ -1,0 +1,11 @@
+,Flux Difference
+ATPS4rpp: adp_c + 4.0 h_p + pi_c <=> atp_c + h2o_c + 3.0 h_c,-37.924311100680804
+EX_h2o_e: h2o_e <=> ,-34.26555250639501
+H2Otex: h2o_e <=> h2o_p,30.23783289355042
+H2Otpp: h2o_p <=> h2o_c,30.237832893548745
+FRD2: fum_c + mql8_c --> mqn8_c + succ_c,-23.272482645243393
+NADH16pp: 4.0 h_c + nadh_c + q8_c --> 3.0 h_p + nad_c + q8h2_c,-23.050356924447748
+NADH18pp: 2dmmq8_c + 4.0 h_c + nadh_c --> 2dmmql8_c + 3.0 h_p + nad_c,-23.050356924442802
+FRD3: 2dmmql8_c + fum_c --> 2dmmq8_c + succ_c,-23.050356924435444
+NADH17pp: 4.0 h_c + mqn8_c + nadh_c --> 3.0 h_p + mql8_c + nad_c,-23.05035692443304
+SUCDi: q8_c + succ_c --> fum_c + q8h2_c,-22.40455180265552
