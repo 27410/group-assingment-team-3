@@ -23,3 +23,4 @@ Report stuff:
 - data/: in this folder lie all the models we have used for this project both the ones imported frmo databases and the variants we have created along the way.
 - Memote_Reports/: this folder contains all the output reports from the memote analysis of the models we compared in section 3 for the selection of our working model. 
 - 00 to 06 .ipynb files: contain the code for all the analysis we have performed during this project. Each file contains a different part of the analysis and all of them are refered in the Report.ipynb file. 
+- Annex_1.pdf: in this pdf we go through the calculations of the minimum yield needed for economically breaking even.
