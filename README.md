@@ -8,9 +8,17 @@ In this project, we will focus on engineering E. coli to produce a P3HB. Our fin
 
 ## Project overview
 The project is distributed in various files and folders:
+
+Practical stuff:
 - README.md: you are reading this file right now.
 - requirements.txt: a pip freeze output of our latest version of the environment we have worked on in this project. Contains working versions of the packages needed for running all the code in this project. 
 - LICENSE: contains a license.
+- .github/: files that remain in github
+- .gitignore: files that should not go into github
+- .Rhistory: Repository history (guess)
+
+
+Report stuff:
 - Report.ipynb: Where the main report is. Here you'll find all the sections of our report described and analysed. You should mainly worry about this file.
 - data/: in this folder lie all the models we have used for this project both the ones imported frmo databases and the variants we have created along the way.
 - Memote_Reports/: this folder contains all the output reports from the memote analysis of the models we compared in section 3 for the selection of our working model. 
